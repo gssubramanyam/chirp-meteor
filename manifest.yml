@@ -1,0 +1,10 @@
+---
+applications:
+- name: chirp-meteor
+  memory: 512M
+  host: chirp-meteor
+  domain: mybluemix.net
+  env: {
+    }
+  services: {
+    }
